@@ -1,0 +1,8 @@
+Code Review Report:
+👉 Function 'test' is missing a docstring.
+👉 Function 'very_long_function' is missing a docstring.
+👉 Variable 'x' is assigned but never used.
+👉 Variable name 'x' is too short. Use more descriptive names.
+👉 Variable name 'c' is too short. Use more descriptive names.
+👉 Variable name 'a' is too short. Use more descriptive names.
+👉 Variable name 'b' is too short. Use more descriptive names.
